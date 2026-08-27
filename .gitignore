@@ -1,5 +1,4 @@
 node_modules/
-.env
 dist/
 dist-tsc/
 build/
@@ -30,3 +29,4 @@ apps/backend/src/**/*.d.ts.map
 ISSUES.md
 IMPLEMENTATION_DOCS.md
 REVIEW.md
+config.bat
